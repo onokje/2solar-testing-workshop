@@ -1,0 +1,16 @@
+{
+    "name": "onok/2solar-testing-workshop",
+    "type": "project",
+    "authors": [
+        {
+            "name": "onok",
+            "email": "onokje@gmail.com"
+        }
+    ],
+    "require": {
+      "ext-mbstring": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
